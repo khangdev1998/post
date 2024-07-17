@@ -239,54 +239,6 @@
             "likes": 64,
             "views": 57,
             "img": "post.png"
-        },
-        {
-            "id": 31,
-            "title": "Khoảnh khắc đẹp ngỡ ngàng tại TP.HCM",
-            "date": "27/08/2023",
-            "likes": 22,
-            "views": 53,
-            "img": "post.png"
-        },
-        {
-            "id": 32,
-            "title": "Khoảnh khắc đẹp ngỡ ngàng tại Huế",
-            "date": "25/06/2023",
-            "likes": 74,
-            "views": 40,
-            "img": "post.png"
-        },
-        {
-            "id": 33,
-            "title": "Khoảnh khắc ấn tượng tại Đà Lạt",
-            "date": "09/12/2023",
-            "likes": 48,
-            "views": 18,
-            "img": "post.png"
-        },
-        {
-            "id": 34,
-            "title": "Khoảnh khắc đẹp như mơ tại Phú Quốc",
-            "date": "17/08/2023",
-            "likes": 61,
-            "views": 78,
-            "img": "post.png"
-        },
-        {
-            "id": 35,
-            "title": "Khoảnh khắc lãng mạn tại Huế",
-            "date": "08/11/2023",
-            "likes": 52,
-            "views": 59,
-            "img": "post.png"
-        },
-        {
-            "id": 36,
-            "title": "Khoảnh khắc tuyệt vời tại Hà Nội",
-            "date": "14/09/2023",
-            "likes": 33,
-            "views": 90,
-            "img": "post.png"
         }
     ]
 }
