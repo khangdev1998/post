@@ -319,22 +319,6 @@
             "likes": 55,
             "views": 16,
             "img": "post.png"
-        },
-        {
-            "id": 41,
-            "title": "Khoảnh khắc tuyệt vời tại Đà Lạt",
-            "date": "12/06/2023",
-            "likes": 91,
-            "views": 22,
-            "img": "post.png"
-        },
-        {
-            "id": 42,
-            "title": "Khoảnh khắc lãng mạn tại Huế",
-            "date": "17/03/2023",
-            "likes": 52,
-            "views": 50,
-            "img": "post.png"
         }
     ]
 }
