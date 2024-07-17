@@ -335,30 +335,6 @@
             "likes": 52,
             "views": 50,
             "img": "post.png"
-        },
-        {
-            "id": 43,
-            "title": "Khoảnh khắc ấn tượng tại Hội An",
-            "date": "22/11/2023",
-            "likes": 74,
-            "views": 68,
-            "img": "post.png"
-        },
-        {
-            "id": 44,
-            "title": "Khoảnh khắc lãng mạn tại TP.HCM",
-            "date": "10/12/2023",
-            "likes": 88,
-            "views": 36,
-            "img": "post.png"
-        },
-        {
-            "id": 45,
-            "title": "Khoảnh khắc đẹp ngỡ ngàng tại Huế",
-            "date": "11/09/2023",
-            "likes": 52,
-            "views": 28,
-            "img": "post.png"
         }
     ]
 }
