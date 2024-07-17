@@ -287,38 +287,6 @@
             "likes": 33,
             "views": 90,
             "img": "post.png"
-        },
-        {
-            "id": 37,
-            "title": "Khoảnh khắc đáng nhớ tại Sa Pa",
-            "date": "22/01/2023",
-            "likes": 20,
-            "views": 16,
-            "img": "post.png"
-        },
-        {
-            "id": 38,
-            "title": "Khoảnh khắc kỳ diệu tại Đà Nẵng",
-            "date": "12/02/2023",
-            "likes": 56,
-            "views": 11,
-            "img": "post.png"
-        },
-        {
-            "id": 39,
-            "title": "Khoảnh khắc tuyệt vời tại Hội An",
-            "date": "21/12/2023",
-            "likes": 72,
-            "views": 67,
-            "img": "post.png"
-        },
-        {
-            "id": 40,
-            "title": "Khoảnh khắc đẹp ngỡ ngàng tại Đà Lạt",
-            "date": "19/09/2023",
-            "likes": 55,
-            "views": 16,
-            "img": "post.png"
         }
     ]
 }
